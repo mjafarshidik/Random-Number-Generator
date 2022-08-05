@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="silihkan_pilih_menu">Silihkan Pilih Menu</string>
+    <string name="additive_rng">Additif RNG</string>
+    <string name="multiply_rng">Multiply RNG</string>
+    <string name="nilai_m">Nilai m</string>
+    <string name="nilai_a">Nilai a</string>
+    <string name="nilai_x0">Nilai X0</string>
+    <string name="hasil">Hasil</string>
+    <string name="lempar_dadu">Lempar Dadu</string>
+    <string name="banyak_lemparan_dadu">Banyak Lemparan Dadu</string>
+    <string name="masukkan_nilai_m_disini">Masukkan Nilai M disini</string>
+    <string name="masukkan_nilai_a_disini">Masukkan Nilai A disini</string>
+    <string name="masukkan_nilai_x0">Masukkan nilai X0 disini</string>
+    <string name="masukkan_banyak_lemparan_dadu_disini">Masukkan banyak lemparan dadu disini</string>
+</resources>
